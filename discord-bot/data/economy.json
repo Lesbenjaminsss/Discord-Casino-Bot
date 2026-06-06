@@ -1,0 +1,31 @@
+{
+  "1324038081896251415": {
+    "balance": 7,
+    "last_salary": 1780508655,
+    "stable": {
+      "open": true,
+      "horses": [
+        {
+          "uid": "2d66582d",
+          "breed": "friz",
+          "name": "Burak",
+          "emoji": "🦄",
+          "speed": 63,
+          "stamina": 84,
+          "luck": 61,
+          "odds": 2.9,
+          "wins": 1,
+          "races": 2
+        }
+      ],
+      "last_collect": 1780508658
+    }
+  },
+  "1324756803598417951": {
+    "balance": 1969,
+    "last_salary": 1780172170
+  },
+  "__meta__": {
+    "top1_role_holder": 1324038081896251415
+  }
+}
